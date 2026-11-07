@@ -1,4 +1,4 @@
-# Finnish Kanta-Oriented FHIR Data Simulation (Python) 🇫🇮🏥
+# Finnish Kanta-Oriented FHIR Data Simulation (Python) 🏥
 
 A simple simulation script demonstrating how external health data (like blood glucose values) can be converted, clinically evaluated, and structured into Finland's national **Kanta / FHIR** format (including medication workflow).
 
